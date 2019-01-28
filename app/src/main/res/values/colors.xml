@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Main colors-->
+    <color name="colorPrimary">#d50000</color>
+    <color name="colorPrimaryDark">#9b0000</color>
+    <color name="colorSecondary">@android:color/white</color>
+
+    <color name="text_color">#ffffff</color>
+
+    <!--Poster background-->
+    <color name="items_background">#282828</color>
+
+    <!--Read Reviews -->
+    <color name="read_reviews_color">#147dfc</color>
+
+    <!--Review title color-->
+    <color name="reviews_title">#c8cacb</color>
+
+    <!--Favorites floating action button color-->
+    <color name="favorite_button_color">#FF0000</color>
+
+</resources>
